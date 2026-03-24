@@ -24,9 +24,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-qing&layout=compact&theme=transparent" alt="Top Langs" height="150" />
 </p>
 
+### 🛠 核心项目仓库 (Core Projects)
+
+| 项目名称 | 技术栈 | 功能描述 | 开发状态 |
+| :--- | :--- | :--- | :---: |
+| 🛰️ [**lidar_filtering**](https://github.com/Pro-qing/lidar_filtering) | `C++` `ROS` `PCL` | 激光雷达点云预处理系统，集成实时裁剪与动态参数滤波。 | 🟢 维护中 |
+| 🛡️ [**safe_obstacle**](https://github.com/Pro-qing/safe_obstacle) | `ROS 2` `C++` | 自动驾驶感知节点，负责障碍物侵入检测与多级安全信号输出。 | 🟡 开发中 |
+| ⚙️ [**embedded_pid**](https://github.com/Pro-qing/embedded_pid) | `STM32` `C` `RTOS` | 基于 FreeRTOS 的电机控制算法，支持 UART DMA 中断调优。 | ✅ 已完成 |
+| 📖 [**D-talent**](https://github.com/Pro-qing/D-talent) | `Markdown` | 东方幻想（Xianxia）背景下的机械师成长故事与世界观设定。 | ✍️ 连载中 |
+
 ### 📫 如何联系我
-- **Email**: Pro-qing@outlook.com
-- **Blog**: ...
+- **Email**: [Pro-qing@outlook.com](mailto:Pro-qing@outlook.com)
+- **Blog**: (期待你的博客链接)
 
 ---
 > "The best way to predict the future is to invent it."

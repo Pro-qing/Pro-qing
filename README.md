@@ -26,7 +26,7 @@
 
 ### 📫 如何联系我
 - **Email**: Pro-qing@outlook.com
-- **Blog**: ....
+- **Blog**: ...
 
 ---
 > "The best way to predict the future is to invent it."

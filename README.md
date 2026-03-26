@@ -44,8 +44,8 @@
   <a href="https://github.com/Pro-qing/lidar_filtering">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=lidar_filtering&theme=transparent" height="150" />
   </a>
-  <a href="https://github.com/Pro-qing/safe_obstacle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=safe_obstacle&theme=transparent" height="150" />
+  <a href="https://github.com/Pro-qing/tip_obstacle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=tip_obstacle&theme=transparent" height="150" />
   </a>
   <a href="https://github.com/Pro-qing/calibration_docker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=calibration_docker&theme=transparent" height="150" />

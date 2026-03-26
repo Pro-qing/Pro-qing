@@ -47,7 +47,7 @@
   <br /><br />
   
   <a href="https://github.com/Pro-qing/tip_obstacle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=tip_obstacle&theme=transparent" alt="tip_obstacle" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=tip_obstacle&theme=react&hide_border=true" alt="tip_obstacle" />
   </a>
   <br /><br />
 

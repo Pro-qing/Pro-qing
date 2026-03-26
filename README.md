@@ -1,12 +1,12 @@
-<div align="center">
-  <br />
-  </div>
 
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Pro-qing&fontSize=70&animation=fadeIn&fontAlignY=38" alt="header" />
 </p> -->
 
 # Hi there, I'm Pro-qing 👋
+<div align="center">
+  <br />
+  </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&background=14132100&center=true&vCenter=true&width=600&height=50&lines=focusing+on+Robotic+Systems;optimizing+Perception+Algorithms;RTOS+Scheduler+%26+Embedded+Dev;Let's+build+the+future+with+C%2B%2B" alt="Typing SVG" />

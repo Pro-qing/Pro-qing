@@ -1,7 +1,18 @@
-# Hi there, I'm Pro-qing 👋
-<div align="center">
-  <br />
-  </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=180&section=header&text=Robotics%20Developer&fontSize=50&animation=fadeIn" />
+</p>
+
+<h1 align="center">Hi there, I'm Pro-qing 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&background=14132100&center=true&vCenter=true&width=600&height=50&lines=focusing+on+Robotic+Systems;optimizing+Perception+Algorithms;RTOS+Scheduler+%26+Embedded+Dev;Let's+build+the+future+with+C%2B%2B" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </p>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&background=14132100&center=true&vCenter=true&width=600&height=50&lines=focusing+on+Robotic+Systems;optimizing+Perception+Algorithms;RTOS+Scheduler+%26+Embedded+Dev;Let's+build+the+future+with+C%2B%2B" alt="Typing SVG" />

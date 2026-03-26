@@ -70,7 +70,7 @@
 
 ---
 
-## 📊 Developer Metrics 
+<!-- ## 📊 Developer Metrics 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pro-qing&show_icons=true&theme=react&hide_border=true" alt="Pro-qing's Stats" height="160" />
@@ -79,6 +79,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pro-qing&theme=react&hide_border=true" alt="GitHub Streak" />
+</p> -->
+
+## 📊 Developer Metrics 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pro-qing&show_icons=true&theme=transparent&title_color=4A4E69&icon_color=4A4E69&text_color=6B705C&hide_border=true" alt="Pro-qing's Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-qing&layout=compact&theme=transparent&title_color=4A4E69&text_color=6B705C&hide_border=true" alt="Pro-qing's Top Langs" height="160" />
 </p>
 
 ---
@@ -100,11 +107,6 @@
 ---
 
 > "The best way to predict the future is to invent it."
-<!-- > "给基哥找对象"
-> > "给基哥找对象"
-> > > "给基哥找对象"
-> > > > "给基哥找对象"
-> > > > > "给基哥找对象" -->
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Micaelli/Micaelli/master/assets/robot.gif" width="50"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="50" />
 </p>

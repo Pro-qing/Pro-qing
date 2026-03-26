@@ -38,23 +38,28 @@
 
 ---
 
-## 🛠️ Feature Projects (科技感卡片展示)
+## 🛠️ Feature Projects (Selected Works)
 
 <p align="center">
   <a href="https://github.com/Pro-qing/lidar_filtering">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=lidar_filtering&theme=transparent" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=lidar_filtering&theme=react&hide_border=true" alt="lidar_filtering" />
   </a>
-  <a href="https://github.com/Pro-qing/tip_obstacle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=tip_obstacle&theme=transparent" height="150" />
+  <br /> <br />
+  
+  <a href="https://github.com/Pro-qing/safe_obstacle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=safe_obstacle&theme=react&hide_border=true" alt="safe_obstacle" />
   </a>
+  <br />
+  <br />
+
   <a href="https://github.com/Pro-qing/calibration_docker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=calibration_docker&theme=transparent" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=calibration_docker&theme=react&hide_border=true" alt="calibration_docker" />
   </a>
 </p>
 
 ---
 
-## 📊 Developer Metrics (数据可视化)
+## 📊 Developer Metrics 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pro-qing&show_icons=true&theme=react&hide_border=true" alt="Pro-qing's Stats" height="160" />

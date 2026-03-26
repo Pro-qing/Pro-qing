@@ -108,5 +108,5 @@
 
 > "The best way to predict the future is to invent it."
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="50" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3YmNxZ3R3eHNoYnh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxyDQGZ6m4/giphy.gif" width="50" />
 </p>

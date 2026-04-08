@@ -52,7 +52,7 @@
 
 ## 🛠️ Feature Projects (Selected Works)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Pro-qing/lidar_filtering">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=lidar_filtering&theme=react&hide_border=true" alt="lidar_filtering"/>
   </a>
@@ -65,6 +65,22 @@
 
   <a href="https://github.com/Pro-qing/calibration_docker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pro-qing&repo=calibration_docker&theme=react&hide_border=true" alt="calibration_docker"/>
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/Pro-qing/lidar_filtering">
+    <img src="https://github-readme-stats-omega-navy-59.vercel.app/api/pin/?username=Pro-qing&repo=lidar_filtering&theme=transparent&title_color=4A4E69&icon_color=4A4E69&text_color=6B705C&hide_border=false&border_color=4A4E69&border_radius=10" alt="lidar_filtering"/>
+  </a>
+  <br /><br />
+  
+  <a href="https://github.com/Pro-qing/tip_obstacle">
+    <img src="https://github-readme-stats-omega-navy-59.vercel.app/api/pin/?username=Pro-qing&repo=tip_obstacle&theme=transparent&title_color=4A4E69&icon_color=4A4E69&text_color=6B705C&hide_border=false&border_color=4A4E69&border_radius=10" alt="tip_obstacle" />
+  </a>
+  <br /><br />
+
+  <a href="https://github.com/Pro-qing/calibration_docker">
+    <img src="https://github-readme-stats-omega-navy-59.vercel.app/api/pin/?username=Pro-qing&repo=calibration_docker&theme=transparent&title_color=4A4E69&icon_color=4A4E69&text_color=6B705C&hide_border=false&border_color=4A4E69&border_radius=10" alt="calibration_docker"/>
   </a>
 </p>
 

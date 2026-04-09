@@ -86,7 +86,7 @@
   <a href="mailto:Pro-qing@outlook.com">
     <img src="https://img.shields.io/badge/Email-Pro--qing%40outlook.com-blue?style=flat-square&logo=microsoft-outlook" />
   </a>
-  <a href="https://your-blog-url.com"> <img src="https://img.shields.io/badge/Blog-Creating...-gray?style=flat-square&logo=rss" />
+  <a href="0.0.0.0"> <img src="https://img.shields.io/badge/Blog-Creating...-gray?style=flat-square&logo=rss" />
   </a>
 </p>
 

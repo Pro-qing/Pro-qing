@@ -96,6 +96,19 @@
 
 ---
 
+## 📚 Technical Documentation
+
+<p align="center">
+  <a href="https://xcne49dnyrws.feishu.cn/wiki/TXCWwUtIuiByhdkWyw5cUOLInkg">
+    <img src="https://img.shields.io/badge/飞书知识库-Robotics%20Wiki-blue?style=for-the-badge&logo=feishu&logoColor=white&color=4A4E69" />
+  </a>
+  <a href="你的第二个文档链接">
+    <img src="https://img.shields.io/badge/在线文档-Dev%20Notes-6B705C?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
+</p>
+
+---
+
 > "The best way to predict the future is to invent it."
 <p align="right">
   <a href="#top"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="50" alt="Back to Top" />

@@ -103,7 +103,7 @@
     <img src="https://img.shields.io/badge/飞书知识库-Robotics%20Wiki-blue?style=for-the-badge&logo=feishu&logoColor=white&color=4A4E69" />
   </a>
   <a href="https://xcne49dnyrws.feishu.cn/docx/B3spdRmoSoGZZBxUkJ7cKaRZnNf">
-    <img src="https://img.shields.io/badge/在线文档-Dev%20Notes-6B705C?style=for-the-badge&logo=googledocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/飞书知识库-Robotics%20Wiki-blue?style=for-the-badge&logo=feishu&logoColor=white&color=4A4E69" />
   </a>
 </p>
 

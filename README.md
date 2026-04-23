@@ -41,8 +41,8 @@
     <td width="50%" valign="top">
       <h3>🌱 正在钻研 / Currently Learning</h3>
       <ul>
-        <li>深入探索自动驾驶架构（如 <b>Autoware</b>）与 SLAM 后端优化。</li>
-        <li>持续精进 <b>C++ 异步编程</b>与硬件底层驱动开发。</li>
+        <li>深入探索自动驾驶架构（如 <b>Autoware</b>）与 感知算法应用优化。</li>
+        <li>持续精进 <b>C++ 异步编程</b>与应用开发。</li>
       </ul>
     </td>
   </tr>

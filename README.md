@@ -110,6 +110,7 @@
 ---
 
 > "The best way to predict the future is to invent it."
+> "走在了正确的赛道上，保持对代码性能的极致追求。感知工程师的核心竞争力，是在凌乱的传感器噪声中，用最高效率还原出客观真理。"
 <p align="right">
   <a href="#top"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="50" alt="Back to Top" />
   </a>

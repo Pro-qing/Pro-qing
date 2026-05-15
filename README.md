@@ -63,6 +63,11 @@
   </a>
   <br /><br />
 
+  <a href="https://github.com/Pro-qing/Perception">
+    <img src="https://github-readme-stats-omega-navy-59.vercel.app/api/pin/?username=Pro-qing&repo=Perception&theme=transparent&title_color=4A4E69&icon_color=4A4E69&text_color=6B705C&hide_border=false&border_color=4A4E69&border_radius=10" alt="Perception" />
+  </a>
+  <br /><br />
+
   <a href="https://github.com/Pro-qing/calibration_docker">
     <img src="https://github-readme-stats-omega-navy-59.vercel.app/api/pin/?username=Pro-qing&repo=calibration_docker&theme=transparent&title_color=4A4E69&icon_color=4A4E69&text_color=6B705C&hide_border=false&border_color=4A4E69&border_radius=10" alt="calibration_docker"/>
   </a>
